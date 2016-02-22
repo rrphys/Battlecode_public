@@ -8,6 +8,10 @@ Battlecode is a Java based 'hard core' AI coding competition done every year at 
 
 The game is very similar to other real time strategy games like the popular video game StarCraft. This year mobile factories called Archons could produce robots of several types, each with their own abilities. Achons could build soldiers, guards, vipers, turrets and scouts, each with their own attributes and abilities. This year, extremely powerful zombie teams that ran a really simple AI were added, making for some pretty terrifying end-of-the-world situations. Details of this year's game can be found [here] (https://www.battlecode.org/info).
 
+<a href="https://www.youtube.com/watch?v=4ruUyCbhnWg#1m50
+" target="_blank"><img src="http://img.youtube.com/vi/4ruUyCbhnWg#1m50/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
 The entire three hour video of the finals, including the matches from our team can be found [on youtube] (https://www.youtube.com/watch?v=4ruUyCbhnWg)
 
 There's also article on the Harvard Crimson with a photo of our team. We're on the bottom left (I'm farthest left) in the finals going up against the team that eventually won the tournament.
