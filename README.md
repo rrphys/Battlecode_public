@@ -10,8 +10,8 @@ The game is very similar to other real time strategy games like the popular vide
 
 The entire three hour video of the finals, including the matches from our team can be found [on youtube] (https://www.youtube.com/watch?v=4ruUyCbhnWg)
 
-There's also article on the Harvard Crimson with a photo of our team.
-http://www.thecrimson.com/article/2016/2/18/mit-harvard-scrutiny/
+There's also article on the Harvard Crimson with a photo of our team. We're on the bottom left in the finals going up against the team that eventually won the tournament.
+![what_thesis Harvard Crimson](http://thumbnails.thecrimson.com.s3.amazonaws.com/photos/2016/02/16/191740_1312808.jpg.800x533_q95_crop-smart_upscale.jpg)
 
 ## What is the code in Battlecode?
 The java code written for Battlecode is meant to be run by a client designed by the Battlecode development team. Our job is to construct code written in RobotPlayer.java which we upload to the competition server. This year we created a new file for pretty much every class we used and tied them together as a package. This made it much easier to work as a team and cleaned things up.
