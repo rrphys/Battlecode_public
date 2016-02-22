@@ -6,11 +6,7 @@ Team members were Aaron Kuan, Stephen Fleming, Tamas Szalay, and me, Ryan Rollin
 ## What is Battlecode?
 Battlecode is a Java based 'hard core' AI coding competition done every year at MIT since 2000. Teams of up to four write an AI that controls a squad of simulated robots that battle head-to-head against an opponent's AI squad on terrain that's never been seen. Much more about the competition can be learned from MIT's host website [here](https://www.battlecode.org/contestants/about/). The game penalizes each robot for inefficient code that's a function of the number of bytecodes run by the algorithm. This means that means decision making and well known pathfinding algorithms must be simplified and rewritten for bytecode efficiency. Even more critical is the game's limit on global knowledge as each simulated robot only knows about it's world within a very small radius and collective decisions must be handled through a costly and 'low bandwidth' messaging system.
 
-The game is very similar to other real time strategy games like the popular video game StarCraft. This year mobile factories called Archons could produce robots of several types, each with their own abilities. Achons could build soldiers, guards, vipers, turrets and scouts, each with their own attributes and abilities. This year, extremely powerful zombie teams that ran a really simple AI were added, making for some pretty terrifying end-of-the-world situations. Details of this year's game can be found [here] (https://www.battlecode.org/info).
-
-<a href="https://www.youtube.com/watch?v=4ruUyCbhnWg#1m50
-" target="_blank"><img src="http://img.youtube.com/vi/4ruUyCbhnWg/0.jpg" 
-alt="Battlecode video" width="240" height="180" border="10" /></a>
+The game is very similar to other real time strategy games like the popular video game StarCraft. This year mobile factories called Archons could produce robots of several types, each with their own abilities. Achons could build soldiers, guards, vipers, turrets and scouts, each with their own attributes and abilities. This year, extremely powerful zombie teams that ran a really simple AI were added, making for some pretty terrifying end-of-the-world situations. Details of this year's game can be found on youtube [here] (https://www.youtube.com/watch?v=4ruUyCbhnWg#1m50).
 
 The entire three hour video of the finals, including the matches from our team can be found [on youtube] (https://www.youtube.com/watch?v=4ruUyCbhnWg)
 
