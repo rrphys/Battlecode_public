@@ -19,7 +19,7 @@ For most of the competition we thought of each robot as a state machine with sta
 ## What's in this repository
 The folder team023 was contains our final submission bot. The other folders are bots that we developed during the tournament and used as test competitors.
 
-## Note's on Ryan's state machine
+## Note's on my Soldier state machine
 For anyone interested in getting a feel for my coding style, I've dug into our Git and pulled out the  file RobotSoldier_ryanonly.java was an earlier version of the class that controlled our soldiers and was written entirely by me.
 
 In it you'll find the method turn() that calls updateState() where the logic is done to decide what state to be in for this round. Within updateState() doOffensive() and doDefensive() are called to do the appropriate action. Later we added states like RUNAWAY and RUSH. Within each method you'll find calls to things like Mico.getNearbyHostiles which is calling a method from the class Micro (in the file MicroBase.java) that's doing the appropriate calculations to see if any bad guys are nearby.
